@@ -1,0 +1,33 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#main-div {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    font-size: 12;
+}
+
+#buttons {
+    margin: 0 auto;
+}
+
+#buttons button {
+    background-color: #CCCCFF;
+    cursor: pointer;
+    /* Green */
+    border: none;
+    /* color: white; */
+    padding: 1%;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1em;
+    border-radius: 4px;
+}
